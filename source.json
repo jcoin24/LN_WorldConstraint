@@ -14,6 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "jcoin24/LN_ObservaConstraints"
+        "jcoin24/LN_ObservaConstraints",
+        "vrchat/packages"
     ]
 }
